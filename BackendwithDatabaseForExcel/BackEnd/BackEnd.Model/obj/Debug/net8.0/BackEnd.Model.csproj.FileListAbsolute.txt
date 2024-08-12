@@ -1,0 +1,22 @@
+E:\Practicals\Practical-2WithDatabase\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\bin\Debug\net8.0\BackEnd.Model.deps.json
+E:\Practicals\Practical-2WithDatabase\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\bin\Debug\net8.0\BackEnd.Model.dll
+E:\Practicals\Practical-2WithDatabase\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\bin\Debug\net8.0\BackEnd.Model.pdb
+E:\Practicals\Practical-2WithDatabase\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\obj\Debug\net8.0\BackEnd.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practicals\Practical-2WithDatabase\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\obj\Debug\net8.0\BackEnd.Model.AssemblyInfoInputs.cache
+E:\Practicals\Practical-2WithDatabase\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\obj\Debug\net8.0\BackEnd.Model.AssemblyInfo.cs
+E:\Practicals\Practical-2WithDatabase\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\obj\Debug\net8.0\BackEnd.Model.csproj.CoreCompileInputs.cache
+E:\Practicals\Practical-2WithDatabase\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\obj\Debug\net8.0\BackEnd.Model.dll
+E:\Practicals\Practical-2WithDatabase\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\obj\Debug\net8.0\refint\BackEnd.Model.dll
+E:\Practicals\Practical-2WithDatabase\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\obj\Debug\net8.0\BackEnd.Model.pdb
+E:\Practicals\Practical-2WithDatabase\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\obj\Debug\net8.0\ref\BackEnd.Model.dll
+E:\Practicals\Practical-2WithDatabase\New folder\BackendwithDatabaseForExcel\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\bin\Debug\net8.0\BackEnd.Model.deps.json
+E:\Practicals\Practical-2WithDatabase\New folder\BackendwithDatabaseForExcel\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\bin\Debug\net8.0\BackEnd.Model.dll
+E:\Practicals\Practical-2WithDatabase\New folder\BackendwithDatabaseForExcel\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\bin\Debug\net8.0\BackEnd.Model.pdb
+E:\Practicals\Practical-2WithDatabase\New folder\BackendwithDatabaseForExcel\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\obj\Debug\net8.0\BackEnd.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practicals\Practical-2WithDatabase\New folder\BackendwithDatabaseForExcel\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\obj\Debug\net8.0\BackEnd.Model.AssemblyInfoInputs.cache
+E:\Practicals\Practical-2WithDatabase\New folder\BackendwithDatabaseForExcel\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\obj\Debug\net8.0\BackEnd.Model.AssemblyInfo.cs
+E:\Practicals\Practical-2WithDatabase\New folder\BackendwithDatabaseForExcel\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\obj\Debug\net8.0\BackEnd.Model.csproj.CoreCompileInputs.cache
+E:\Practicals\Practical-2WithDatabase\New folder\BackendwithDatabaseForExcel\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\obj\Debug\net8.0\BackEnd.Model.dll
+E:\Practicals\Practical-2WithDatabase\New folder\BackendwithDatabaseForExcel\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\obj\Debug\net8.0\refint\BackEnd.Model.dll
+E:\Practicals\Practical-2WithDatabase\New folder\BackendwithDatabaseForExcel\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\obj\Debug\net8.0\BackEnd.Model.pdb
+E:\Practicals\Practical-2WithDatabase\New folder\BackendwithDatabaseForExcel\BackendwithDatabaseForExcel\BackEnd\BackEnd.Model\obj\Debug\net8.0\ref\BackEnd.Model.dll

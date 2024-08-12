@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Practicals\\Practical-2WithDatabase\\New folder\\BackendwithDatabaseForExcel\\BackendwithDatabaseForExcel\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6586F7A-EC19-4C8C-8326-AB286AB02B7E}|BackEnd\\BackEnd.csproj|e:\\practicals\\practical-2withdatabase\\new folder\\backendwithdatabaseforexcel\\backendwithdatabaseforexcel\\backend\\backend\\staticclass\\excelsheetgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6586F7A-EC19-4C8C-8326-AB286AB02B7E}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\staticclass\\excelsheetgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A753001-03E6-4A6D-93B4-DBE9062B2203}|BackEnd.Model\\BackEnd.Model.csproj|e:\\practicals\\practical-2withdatabase\\new folder\\backendwithdatabaseforexcel\\backendwithdatabaseforexcel\\backend\\backend.model\\employeeworkflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A753001-03E6-4A6D-93B4-DBE9062B2203}|BackEnd.Model\\BackEnd.Model.csproj|solutionrelative:backend.model\\employeeworkflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6586F7A-EC19-4C8C-8326-AB286AB02B7E}|BackEnd\\BackEnd.csproj|e:\\practicals\\practical-2withdatabase\\new folder\\backendwithdatabaseforexcel\\backendwithdatabaseforexcel\\backend\\backend\\controllers\\excelgeneratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6586F7A-EC19-4C8C-8326-AB286AB02B7E}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\controllers\\excelgeneratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6586F7A-EC19-4C8C-8326-AB286AB02B7E}|BackEnd\\BackEnd.csproj|e:\\practicals\\practical-2withdatabase\\new folder\\backendwithdatabaseforexcel\\backendwithdatabaseforexcel\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6586F7A-EC19-4C8C-8326-AB286AB02B7E}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Practicals\\Practical-2WithDatabase\\New folder\\BackendwithDatabaseForExcel\\BackendwithDatabaseForExcel\\BackEnd\\BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Program.cs",
+              "ToolTip": "E:\\Practicals\\Practical-2WithDatabase\\New folder\\BackendwithDatabaseForExcel\\BackendwithDatabaseForExcel\\BackEnd\\BackEnd\\Program.cs",
+              "RelativeToolTip": "BackEnd\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T12:00:15.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeWorkFlow.cs",
+              "DocumentMoniker": "E:\\Practicals\\Practical-2WithDatabase\\New folder\\BackendwithDatabaseForExcel\\BackendwithDatabaseForExcel\\BackEnd\\BackEnd.Model\\EmployeeWorkFlow.cs",
+              "RelativeDocumentMoniker": "BackEnd.Model\\EmployeeWorkFlow.cs",
+              "ToolTip": "E:\\Practicals\\Practical-2WithDatabase\\New folder\\BackendwithDatabaseForExcel\\BackendwithDatabaseForExcel\\BackEnd\\BackEnd.Model\\EmployeeWorkFlow.cs",
+              "RelativeToolTip": "BackEnd.Model\\EmployeeWorkFlow.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T09:17:43.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelSheetGenerator.cs",
+              "DocumentMoniker": "E:\\Practicals\\Practical-2WithDatabase\\New folder\\BackendwithDatabaseForExcel\\BackendwithDatabaseForExcel\\BackEnd\\BackEnd\\StaticClass\\ExcelSheetGenerator.cs",
+              "RelativeDocumentMoniker": "BackEnd\\StaticClass\\ExcelSheetGenerator.cs",
+              "ToolTip": "E:\\Practicals\\Practical-2WithDatabase\\New folder\\BackendwithDatabaseForExcel\\BackendwithDatabaseForExcel\\BackEnd\\BackEnd\\StaticClass\\ExcelSheetGenerator.cs",
+              "RelativeToolTip": "BackEnd\\StaticClass\\ExcelSheetGenerator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T09:13:07.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExcelGeneratesController.cs",
+              "DocumentMoniker": "E:\\Practicals\\Practical-2WithDatabase\\New folder\\BackendwithDatabaseForExcel\\BackendwithDatabaseForExcel\\BackEnd\\BackEnd\\Controllers\\ExcelGeneratesController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\ExcelGeneratesController.cs",
+              "ToolTip": "E:\\Practicals\\Practical-2WithDatabase\\New folder\\BackendwithDatabaseForExcel\\BackendwithDatabaseForExcel\\BackEnd\\BackEnd\\Controllers\\ExcelGeneratesController.cs",
+              "RelativeToolTip": "BackEnd\\Controllers\\ExcelGeneratesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T09:04:27.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
